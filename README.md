@@ -9,6 +9,7 @@ Make Java development more productive and robust.
 
 [Features](https://projectlombok.org/features/all)
 | [Twitter](https://twitter.com/hashtag/ProjectLombok)
+| [Weibo](http://s.weibo.com/weibo/Lombok%2520Java)
 
 
 ### [Guava](https://github.com/google/guava)
@@ -16,6 +17,7 @@ Guava is a set of core libraries that includes new collection types (such as mul
 
 [Wiki](https://github.com/google/guava/wiki)
 | [Twitter](https://twitter.com/hashtag/googleguava)
+| [Weibo](http://s.weibo.com/weibo/Google%2520Guava)
 
 
 ### [reactor](https://projectreactor.io/)
@@ -27,6 +29,7 @@ the JVM based on the Reactive Streams Specification.
 | [Reference Guide](https://projectreactor.io/docs/core/release/reference/)
 | [Twitter](https://twitter.com/projectreactor)
 | [Gitter](https://gitter.im/reactor/reactor)
+| [Weibo](http://s.weibo.com/weibo/Spring%2520reactor)
 
 
 ### [vavr](http://www.vavr.io/)
@@ -42,6 +45,7 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 
 [User Guide](http://resilience4j.github.io/resilience4j/)
 | [Twitter](https://twitter.com/search?q=resilience4j)
+| [Weibo](http://s.weibo.com/weibo/resilience4j)
 
 
 ### [Objenesis](http://objenesis.org/)
@@ -50,6 +54,7 @@ To instantiate a new object of a particular class without calling the constructo
 [Tutorial](http://objenesis.org/tutorial.html)
 | [Details](http://objenesis.org/details.html)
 | [Twitter](https://twitter.com/search?q=Objenesis)
+| [Weibo](http://s.weibo.com/weibo/Objenesis)
 
 
 # Framework
@@ -68,3 +73,4 @@ Apache Ignite is a high-performance, integrated and distributed in-memory platfo
 | [Tools](https://apacheignite-tools.readme.io/docs)
 | [YouTube Channel](https://www.youtube.com/channel/UChYD3lCEnzHlWioUb2sNgSg)
 | [Twitter](https://twitter.com/search?q=ApacheIgnite)
+| [Weibo](http://s.weibo.com/weibo/Apache%2520Ignite)
