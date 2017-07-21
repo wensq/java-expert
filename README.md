@@ -18,6 +18,17 @@ Guava is a set of core libraries that includes new collection types (such as mul
 | [Twitter](https://twitter.com/hashtag/googleguava)
 
 
+### [reactor](https://projectreactor.io/)
+Reactor is a fourth-generation Reactive library for building non-blocking applications on
+the JVM based on the Reactive Streams Specification.
+
+[Documentation](https://projectreactor.io/docs)
+| [Tutorial](https://projectreactor.io/learn)
+| [Reference Guide](https://projectreactor.io/docs/core/release/reference/)
+| [Twitter](https://twitter.com/projectreactor)
+| [Gitter](https://gitter.im/reactor/reactor)
+
+
 ### [vavr](http://www.vavr.io/)
 Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality.
 
