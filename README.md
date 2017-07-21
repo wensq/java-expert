@@ -20,7 +20,7 @@ Guava is a set of core libraries that includes new collection types (such as mul
 Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality.
 
 [User Guide](http://www.vavr.io/vavr-docs/)
-|[Blog](http://blog.vavr.io/)
+| [Blog](http://blog.vavr.io/)
 
 
 ### [resilience4j](https://github.com/resilience4j/resilience4j)
@@ -33,7 +33,21 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 To instantiate a new object of a particular class without calling the constructor.
 
 [Tutorial](http://objenesis.org/tutorial.html)
-|[Details](http://objenesis.org/details.html)
+| [Details](http://objenesis.org/details.html)
 
 
 # Framework
+
+
+# Service
+
+### [Apache Ignite](https://ignite.apache.org/)
+Apache Ignite is a high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+
+[Features](https://ignite.apache.org/features.html)
+| [Use Cases](https://ignite.apache.org/usecases.html)
+| [Docs](https://apacheignite.readme.io/docs)
+| [Integrations](https://apacheignite-mix.readme.io/docs)
+| [Examples](https://github.com/apache/ignite/tree/master/examples)
+| [Tools](https://apacheignite-tools.readme.io/docs)
+| [YouTube Channel](https://www.youtube.com/channel/UChYD3lCEnzHlWioUb2sNgSg)
