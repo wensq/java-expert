@@ -60,6 +60,12 @@ To instantiate a new object of a particular class without calling the constructo
 # Framework
 
 ## Spring
+Spring helps development teams everywhere build simple, portable, fast and flexible JVM-based systems and applications.
+
+[Doc](https://spring.io/docs)
+| [Guides](https://spring.io/guides)
+| [Projects](https://spring.io/projects)
+| [Blog](https://spring.io/blog)
 
 ### [Spring Framework](http://projects.spring.io/spring-framework/)
 Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
@@ -72,7 +78,7 @@ Core support for dependency injection, transaction management, web applications,
 ### [Spring Data](http://projects.spring.io/spring-data/)
 Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining the special traits of the underlying data store. 
 
-It makes it easy to use data access technologies, relational and non-relational databases, map-reduce frameworks, and cloud-based data services. This is an umbrella project which contains many subprojects that are specific to a given database. The projects are developed by working together with many of the companies and developers that are behind these exciting technologies.
+It makes it easy to use data access technologies, relational and non-relational databases, map-reduce frameworks, and cloud-based data services. This is an umbrella project which contains many subprojects that are specific to a given database.
 
 [Commons](http://docs.spring.io/spring-data/commons/docs/current/reference/html/)
 | [Gemfire](http://projects.spring.io/spring-data-gemfire)
@@ -92,6 +98,15 @@ It makes it easy to use data access technologies, relational and non-relational 
 | [Neo4j](http://projects.spring.io/spring-data-neo4j)
 | [Twitter](https://twitter.com/search?q=Spring%20Data)
 | [Weibo](http://s.weibo.com/weibo/Spring%20Data)
+
+
+### [Spring Boot](http://projects.spring.io/spring-boot/)
+Takes an opinionated view of building production-ready Spring applications. Spring Boot favors convention over configuration and is designed to get you up and running as quickly as possible.
+
+[Reference](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+| [Twitter](https://twitter.com/search?q=Spring%20Boot)
+| [Gitter](https://gitter.im/spring-projects/spring-boot)
+| [Weibo](http://s.weibo.com/weibo/Spring%20Boot)
 
 
 # Service
