@@ -59,6 +59,40 @@ To instantiate a new object of a particular class without calling the constructo
 
 # Framework
 
+## Spring
+
+### [Spring Framework](http://projects.spring.io/spring-framework/)
+Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
+
+[Reference](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/)
+| [Twitter](https://twitter.com/search?q=Spring%20Framework)
+| [Weibo](http://s.weibo.com/weibo/Spring%20Framework)
+
+
+### [Spring Data](http://projects.spring.io/spring-data/)
+Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining the special traits of the underlying data store. 
+
+It makes it easy to use data access technologies, relational and non-relational databases, map-reduce frameworks, and cloud-based data services. This is an umbrella project which contains many subprojects that are specific to a given database. The projects are developed by working together with many of the companies and developers that are behind these exciting technologies.
+
+[Commons](http://docs.spring.io/spring-data/commons/docs/current/reference/html/)
+| [Gemfire](http://projects.spring.io/spring-data-gemfire)
+| [JPA](http://projects.spring.io/spring-data-jpa)
+| [KeyValue](https://github.com/spring-projects/spring-data-keyvalue)
+| [LDAP](http://projects.spring.io/spring-data-ldap)
+| [MongoDB](http://projects.spring.io/spring-data-mongodb)
+| [REST](http://projects.spring.io/spring-data-rest)
+| [Redis](http://projects.spring.io/spring-data-redis)
+| [Cassandra](http://projects.spring.io/spring-data-cassandra)
+| [Solr](http://projects.spring.io/spring-data-solr)
+| [Aerospike](https://github.com/spring-projects/spring-data-aerospike)
+| [Couchbase](http://projects.spring.io/spring-data-couchbase)
+| [DynamoDB](https://github.com/michaellavelle/spring-data-dynamodb)
+| [Elasticsearch](http://projects.spring.io/spring-data-elasticsearch)
+| [Hazelcast](https://github.com/hazelcast/spring-data-hazelcast)
+| [Neo4j](http://projects.spring.io/spring-data-neo4j)
+| [Twitter](https://twitter.com/search?q=Spring%20Data)
+| [Weibo](http://s.weibo.com/weibo/Spring%20Data)
+
 
 # Service
 
@@ -71,6 +105,6 @@ Apache Ignite is a high-performance, integrated and distributed in-memory platfo
 | [Integrations](https://apacheignite-mix.readme.io/docs)
 | [Examples](https://github.com/apache/ignite/tree/master/examples)
 | [Tools](https://apacheignite-tools.readme.io/docs)
-| [YouTube Channel](https://www.youtube.com/channel/UChYD3lCEnzHlWioUb2sNgSg)
+| [YouTube](https://www.youtube.com/channel/UChYD3lCEnzHlWioUb2sNgSg)
 | [Twitter](https://twitter.com/search?q=ApacheIgnite)
-| [Weibo](http://s.weibo.com/weibo/Apache%2520Ignite)
+| [Weibo](http://s.weibo.com/weibo/Apache%20Ignite)
