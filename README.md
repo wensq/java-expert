@@ -112,7 +112,11 @@ Takes an opinionated view of building production-ready Spring applications. Spri
 # Service
 
 ### [Apache Ignite](https://ignite.apache.org/)
-Apache Ignite is a high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+Ignite is a memory-centric platform
+* combining a distributed SQL database
+* with a key-value data grid
+* that is ACID-compliant
+* and horizontally scalable
 
 [Features](https://ignite.apache.org/features.html)
 | [Use Cases](https://ignite.apache.org/usecases.html)
@@ -122,4 +126,5 @@ Apache Ignite is a high-performance, integrated and distributed in-memory platfo
 | [Tools](https://apacheignite-tools.readme.io/docs)
 | [YouTube](https://www.youtube.com/channel/UChYD3lCEnzHlWioUb2sNgSg)
 | [Twitter](https://twitter.com/search?q=ApacheIgnite)
+| [Gitter](https://gitter.im/apacheignite/ignite)
 | [Weibo](http://s.weibo.com/weibo/Apache%20Ignite)
