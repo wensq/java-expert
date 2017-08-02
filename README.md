@@ -112,11 +112,12 @@ Takes an opinionated view of building production-ready Spring applications. Spri
 # Service
 
 ### [Apache Ignite](https://ignite.apache.org/)
-Ignite is a memory-centric platform
-* combining a distributed SQL database
-* with a key-value data grid
-* that is ACID-compliant
-* and horizontally scalable
+Ignite is:
+* A memory-centric data platform
+* that is strongly consistent
+* and highly available
+* with powerful SQL,
+* key-value and processing APIs
 
 [Features](https://ignite.apache.org/features.html)
 | [Use Cases](https://ignite.apache.org/usecases.html)
