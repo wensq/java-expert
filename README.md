@@ -133,6 +133,15 @@ Ignite is:
 
 # Tool
 
+### [BTrace](https://github.com/btraceio/btrace)
+BTrace is a safe, dynamic tracing tool for the Java platform.
+
+BTrace can be used to dynamically trace a running Java program (similar to DTrace for OpenSolaris applications and OS). BTrace dynamically instruments the classes of the target application to inject tracing code ("bytecode tracing").
+
+[User Guide](https://github.com/btraceio/btrace/wiki)
+| [Maven Plugin](https://github.com/btraceio/btrace-maven)
+
+
 ### [iftop](http://www.ex-parrot.com/pdw/iftop/)
 Display bandwidth usage on an interface.
 
