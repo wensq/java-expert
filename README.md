@@ -144,6 +144,14 @@ BTrace can be used to dynamically trace a running Java program (similar to DTrac
 | [Weibo](http://s.weibo.com/weibo/BTrace)
 
 
+### [javOSize](http://www.javosize.com/)
+javOSize is a newly released platform that brings monitoring, diagnosing and unique repair capabilities together in a single pane of glass.
+
+javOSize is not an APM tool. javOSize is not a profiler. javOSize is just the tool you need to keep your java applications up, running and fully functional.
+
+[Docs](http://www.javosize.com/gettingStartedGUI/doc.html)
+
+
 ### [iftop](http://www.ex-parrot.com/pdw/iftop/)
 Display bandwidth usage on an interface.
 
