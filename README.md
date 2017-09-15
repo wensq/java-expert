@@ -1,7 +1,5 @@
 # Java Expert Skills
-The skills to become an expert in Java Language.
-
-# Table of Content
+The skills to master if you want to become an expert in Java Language.
 
 * [Library](#library)
     * [Lombok](#lombok)
