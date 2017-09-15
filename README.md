@@ -109,6 +109,17 @@ Takes an opinionated view of building production-ready Spring applications. Spri
 | [Weibo](http://s.weibo.com/weibo/Spring%20Boot)
 
 
+## Metrics
+
+### [Micrometer](http://micrometer.io/)
+Vendor-neutral application metrics facade.
+
+Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics.
+
+[Documentation](http://micrometer.io/docs)
+| [Talk: Observability 3 Ways](https://www.dotconferences.com/2017/04/adrian-cole-observability-3-ways-logging-metrics-tracing)
+
+
 # Service
 
 ### [Apache Ignite](https://ignite.apache.org/)
