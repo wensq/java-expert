@@ -145,6 +145,29 @@ Micrometer provides a simple facade over the instrumentation clients for the mos
 
 # Service
 
+## Elastic Stack
+
+[Blog](https://www.elastic.co/blog)
+| [Community](https://www.elastic.co/community)
+| [Documentation](https://www.elastic.co/guide)
+| [Videos & Webinars](https://www.elastic.co/videos)
+
+
+### [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
+As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.
+
+[Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+| [The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
+| [Resiliency Status](https://www.elastic.co/guide/en/elasticsearch/resiliency/current/index.html)
+| [Painless Scripting Language](https://www.elastic.co/guide/en/elasticsearch/painless/current/index.html)
+| [Plugins and Integrations](https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html)
+| [Clients](https://www.elastic.co/guide/en/elasticsearch/client/index.html)
+| [Curator Index Management](https://www.elastic.co/guide/en/elasticsearch/client/curator/current/index.html)
+
+
+## In-Memory Data Grid
+
 ### [Apache Ignite](https://ignite.apache.org/)
 Ignite is:
 * A memory-centric data platform
