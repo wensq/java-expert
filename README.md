@@ -44,6 +44,8 @@ The skills to master if you want to become an expert in Java Language.
 Make Java development more productive and robust.
 
 [Features](https://projectlombok.org/features/all)
+| [Install](https://projectlombok.org/setup/overview)
+| [Changelog](https://projectlombok.org/changelog)
 | [Twitter](https://twitter.com/hashtag/ProjectLombok)
 | [Weibo](http://s.weibo.com/weibo/Lombok%2520Java)
 
