@@ -244,7 +244,7 @@ BTrace can be used to dynamically trace a running Java program (similar to DTrac
 [User Guide](https://github.com/btraceio/btrace/wiki)
 | [Maven Plugin](https://github.com/btraceio/btrace-maven)
 | [Twitter](https://twitter.com/search?q=BTrace)
-| [Weibo](whttp://s.weibo.com/weibo/BTrace)
+| [Weibo](http://s.weibo.com/weibo/BTrace)
 
 
 ### [javOSize](http://www.javosize.com/)
@@ -253,6 +253,8 @@ javOSize is a newly released platform that brings monitoring, diagnosing and uni
 javOSize is not an APM tool. javOSize is not a profiler. javOSize is just the tool you need to keep your java applications up, running and fully functional.
 
 [Docs](http://www.javosize.com/gettingStartedGUI/doc.html)
+| [Twitter](https://twitter.com/search?q=javOSize)
+| [Weibo](http://s.weibo.com/weibo/javOSize)
 
 
 ### [vjtop](https://github.com/vipshop/vjtools/tree/master/vjtop)
@@ -260,7 +262,7 @@ VJtop is a JVM monitoring tool to provide a dynamic real-time view of the busies
 
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjtop/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjtop/README_EN.md)
-| [Weibo](whttp://s.weibo.com/weibo/vjtop)
+| [Weibo](http://s.weibo.com/weibo/vjtop)
 
 
 ### [vjmap](https://github.com/vipshop/vjtools/tree/master/vjmap)
@@ -268,7 +270,7 @@ VJMap prints per GC generation (Eden, Survivor, OldGen) object details of a give
 
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmap/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjmap/README_EN.md)
-| [Weibo](whttp://s.weibo.com/weibo/vjmap)
+| [Weibo](http://s.weibo.com/weibo/vjmap)
 
 
 ### [vjdump](https://github.com/vipshop/vjtools/tree/master/vjdump)
@@ -276,7 +278,7 @@ VJDump comes as a handy script for collecting diagnostic data for JVM during urg
 
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjdump/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjdump/README_EN.md)
-| [Weibo](whttp://s.weibo.com/weibo/vjdump)
+| [Weibo](http://s.weibo.com/weibo/vjdump)
 
 
 ### [vjmxcli](https://github.com/vipshop/vjtools/tree/master/vjmxcli)
@@ -285,7 +287,7 @@ VJJmxCli support connect to JVM via pid, no need to enable JMX at startup JVM op
 VJJmxCli can simulate the output of `jstat -gcutil`.
 
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmxcli/README.md)
-| [Weibo](whttp://s.weibo.com/weibo/vjmxcli)
+| [Weibo](http://s.weibo.com/weibo/vjmxcli)
 
 # Topic
 
