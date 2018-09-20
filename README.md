@@ -3,9 +3,10 @@ The skills to master if you want to become an expert in Java Language.
 
 * [Library](#library)
     * [Lombok](#lombok)
-    * [Guava](#guava)
-    * [reactor](#reactor)
     * [vavr](#vavr)
+    * [Guava](#guava)
+    * [Flogger](#flogger)
+    * [reactor](#reactor)
     * [resilience4j](#resilience4j)
     * [Objenesis](#objenesis)
 * [Framework](#framework)
@@ -40,6 +41,14 @@ Make Java development more productive and robust.
 | [Weibo](http://s.weibo.com/weibo/Lombok%2520Java)
 
 
+### [vavr](http://www.vavr.io/)
+Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality.
+
+[User Guide](http://www.vavr.io/vavr-docs/)
+| [Blog](http://blog.vavr.io/)
+| [Twitter](https://twitter.com/search?q=vavr)
+
+
 ### [Guava](https://github.com/google/guava)
 Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more!
 
@@ -47,8 +56,6 @@ Guava is a set of core libraries that includes new collection types (such as mul
 | [Twitter](https://twitter.com/hashtag/googleguava)
 | [Weibo](http://s.weibo.com/weibo/Google%2520Guava)
 
-
-## Logging
 
 ### [Flogger](https://google.github.io/flogger/)
 Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
@@ -68,15 +75,6 @@ the JVM based on the Reactive Streams Specification.
 | [Twitter](https://twitter.com/projectreactor)
 | [Gitter](https://gitter.im/reactor/reactor)
 | [Weibo](http://s.weibo.com/weibo/Spring%2520reactor)
-
-
-### [vavr](http://www.vavr.io/)
-Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality.
-
-[User Guide](http://www.vavr.io/vavr-docs/)
-| [Blog](http://blog.vavr.io/)
-| [Twitter](https://twitter.com/search?q=vavr)
-
 
 ### [resilience4j](https://github.com/resilience4j/resilience4j)
 Resilience4j is a fault tolerance library designed for Java8 and functional programming.
