@@ -48,6 +48,16 @@ Guava is a set of core libraries that includes new collection types (such as mul
 | [Weibo](http://s.weibo.com/weibo/Google%2520Guava)
 
 
+## Logging
+
+### [Flogger](https://google.github.io/flogger/)
+Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
+
+[Home](https://google.github.io/flogger/)
+| [Benefits](https://google.github.io/flogger/benefits)
+| [Best Practices](https://google.github.io/flogger/best_practice)
+
+
 ### [reactor](https://projectreactor.io/)
 Reactor is a fourth-generation Reactive library for building non-blocking applications on
 the JVM based on the Reactive Streams Specification.
