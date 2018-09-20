@@ -22,9 +22,16 @@ The skills to master if you want to become an expert in Java Language.
     * [In-Memory Data Grid](#in-memory-data-grid)
         * [Apache Ignite](#apache-ignite)
 * [Tool](#tool)
-    * [BTrace](#btrace)
-    * [javOSize](#javosize)
-    * [iftop](#iftop)
+    * [OS](#os)
+        * [dstat](#dstat)
+        * [iftop](#iftop)
+    * [Java](#java)
+        * [BTrace](#btrace)
+        * [javOSize](#javosize)
+        * [vjtop](#vjtop)
+        * [vjmap](#vjmap)
+        * [vjdump](#vjdump)
+        * [vjjmxcli](#vjjmxcli)
 * [Topic](#topic)
     * [Code Style](#code-style)
         * [Guide](#code-style-guide)
@@ -205,23 +212,16 @@ Ignite is:
 
 # Tool
 
-### [BTrace](https://github.com/btraceio/btrace)
-BTrace is a safe, dynamic tracing tool for the Java platform.
+## OS
 
-BTrace can be used to dynamically trace a running Java program (similar to DTrace for OpenSolaris applications and OS). BTrace dynamically instruments the classes of the target application to inject tracing code ("bytecode tracing").
+### [dstat](http://dag.wiee.rs/home-made/dstat/)
+Dstat is a versatile replacement for vmstat, iostat, netstat and ifstat. Dstat overcomes some of their limitations and adds some extra features, more counters and flexibility. Dstat is handy for monitoring systems during performance tuning tests, benchmarks or troubleshooting. 
 
-[User Guide](https://github.com/btraceio/btrace/wiki)
-| [Maven Plugin](https://github.com/btraceio/btrace-maven)
-| [Twitter](https://twitter.com/search?q=BTrace)
-| [Weibo](http://s.weibo.com/weibo/BTrace)
+Dstat allows you to view all of your system resources in real-time, you can eg. compare disk utilization in combination with interrupts from your IDE controller, or compare the network bandwidth numbers directly with the disk throughput (in the same interval).
 
-
-### [javOSize](http://www.javosize.com/)
-javOSize is a newly released platform that brings monitoring, diagnosing and unique repair capabilities together in a single pane of glass.
-
-javOSize is not an APM tool. javOSize is not a profiler. javOSize is just the tool you need to keep your java applications up, running and fully functional.
-
-[Docs](http://www.javosize.com/gettingStartedGUI/doc.html)
+[Documentation](https://github.com/dagwieers/dstat/blob/master/docs/dstat.1.adoc)
+| [Twitter](https://twitter.com/search?q=dstat)
+| [Weibo](http://s.weibo.com/weibo/dstat)
 
 
 ### [iftop](http://www.ex-parrot.com/pdw/iftop/)
@@ -233,6 +233,59 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
 | [Twitter](https://twitter.com/search?q=iftop)
 | [Weibo](http://s.weibo.com/weibo/iftop)
 
+
+## Java
+
+### [BTrace](https://github.com/btraceio/btrace)
+BTrace is a safe, dynamic tracing tool for the Java platform.
+
+BTrace can be used to dynamically trace a running Java program (similar to DTrace for OpenSolaris applications and OS). BTrace dynamically instruments the classes of the target application to inject tracing code ("bytecode tracing").
+
+[User Guide](https://github.com/btraceio/btrace/wiki)
+| [Maven Plugin](https://github.com/btraceio/btrace-maven)
+| [Twitter](https://twitter.com/search?q=BTrace)
+| [Weibo](whttp://s.weibo.com/weibo/BTrace)
+
+
+### [javOSize](http://www.javosize.com/)
+javOSize is a newly released platform that brings monitoring, diagnosing and unique repair capabilities together in a single pane of glass.
+
+javOSize is not an APM tool. javOSize is not a profiler. javOSize is just the tool you need to keep your java applications up, running and fully functional.
+
+[Docs](http://www.javosize.com/gettingStartedGUI/doc.html)
+
+
+### [vjtop](https://github.com/vipshop/vjtools/tree/master/vjtop)
+VJtop is a JVM monitoring tool to provide a dynamic real-time view of the busiest top 10 threads, which plays the similar role of the "top" command for viewing the host operation system.
+
+[README Chinese](https://github.com/vipshop/vjtools/blob/master/vjtop/README.md)
+| [README English](https://github.com/vipshop/vjtools/blob/master/vjtop/README_EN.md)
+| [Weibo](whttp://s.weibo.com/weibo/vjtop)
+
+
+### [vjmap](https://github.com/vipshop/vjtools/tree/master/vjmap)
+VJMap prints per GC generation (Eden, Survivor, OldGen) object details of a given process , it is an advanced way to find the reasons of memory leak and fast-growing OldGen.
+
+[README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmap/README.md)
+| [README English](https://github.com/vipshop/vjtools/blob/master/vjmap/README_EN.md)
+| [Weibo](whttp://s.weibo.com/weibo/vjmap)
+
+
+### [vjdump](https://github.com/vipshop/vjtools/tree/master/vjdump)
+VJDump comes as a handy script for collecting diagnostic data for JVM during urgent failures to allow for complete analysis later.
+
+[README Chinese](https://github.com/vipshop/vjtools/blob/master/vjdump/README.md)
+| [README English](https://github.com/vipshop/vjtools/blob/master/vjdump/README_EN.md)
+| [Weibo](whttp://s.weibo.com/weibo/vjdump)
+
+
+### [vjmxcli](https://github.com/vipshop/vjtools/tree/master/vjmxcli)
+VJJmxCli support connect to JVM via pid, no need to enable JMX at startup JVM options.
+
+VJJmxCli can simulate the output of `jstat -gcutil`.
+
+[README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmxcli/README.md)
+| [Weibo](whttp://s.weibo.com/weibo/vjmxcli)
 
 # Topic
 
