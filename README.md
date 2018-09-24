@@ -127,6 +127,7 @@ It makes it easy to use data access technologies, relational and non-relational 
 
 [Commons](http://docs.spring.io/spring-data/commons/docs/current/reference/html/)
 | [Gemfire](http://projects.spring.io/spring-data-gemfire)
+| [JDBC](http://projects.spring.io/spring-data-jdbc)
 | [JPA](http://projects.spring.io/spring-data-jpa)
 | [KeyValue](https://github.com/spring-projects/spring-data-keyvalue)
 | [LDAP](http://projects.spring.io/spring-data-ldap)
