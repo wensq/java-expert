@@ -25,6 +25,7 @@ The skills to master if you want to become an expert in Java Language.
     * [OS](#os)
         * [dstat](#dstat)
         * [iftop](#iftop)
+        * [HTTPie](#httpie)
     * [Java](#java)
         * [BTrace](#btrace)
         * [javOSize](#javosize)
@@ -235,6 +236,14 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
 [Man Page](https://www.systutorials.com/docs/linux/man/8-iftop/)
 | [Twitter](https://twitter.com/search?q=iftop)
 | [Weibo](http://s.weibo.com/weibo/iftop)
+
+
+### [HTTPie](https://httpie.org/)
+HTTPie is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+
+[Documentation](https://httpie.org/doc)
+| [Twitter](https://twitter.com/clihttp)
+| [Weibo](http://s.weibo.com/weibo/HTTPie)
 
 
 ## Java
