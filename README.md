@@ -104,6 +104,17 @@ To instantiate a new object of a particular class without calling the constructo
 | [Weibo](http://s.weibo.com/weibo/Objenesis)
 
 
+### [caffeine](https://github.com/ben-manes/caffeine)
+Caffeine is a high performance, near optimal caching library based on Java 8.
+
+[Introduction](https://github.com/ben-manes/caffeine)
+| [Wiki](https://github.com/ben-manes/caffeine/wiki)
+| [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+| [Details](https://juejin.im/post/5b8df63c6fb9a019e04ebaf4)
+| [Twitter](https://twitter.com/search?q=caffeine%20cache)
+| [Weibo](http://s.weibo.com/weibo/caffeine%20cache)
+
+
 # Framework
 
 ## Spring
