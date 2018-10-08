@@ -25,6 +25,7 @@ The skills to master if you want to become an expert in Java Language.
     * [OS](#os)
         * [dstat](#dstat)
         * [iftop](#iftop)
+        * [fkill](#fkill)
         * [HTTPie](#httpie)
     * [Java](#java)
         * [BTrace](#btrace)
@@ -236,6 +237,16 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
 [Man Page](https://www.systutorials.com/docs/linux/man/8-iftop/)
 | [Twitter](https://twitter.com/search?q=iftop)
 | [Weibo](http://s.weibo.com/weibo/iftop)
+
+
+### fkill(https://github.com/sindresorhus/fkill)
+Fabulously kill processes. Cross-platform (Works on macOS, Linux, Windows).
+
+[API](https://github.com/sindresorhus/fkill)
+| [CLI](https://github.com/sindresorhus/fkill-cli)
+| [Alfred](https://github.com/SamVerschueren/alfred-fkill)
+| [Twitter](https://twitter.com/search?q=fkill)
+| [Weibo](http://s.weibo.com/weibo/fkill)
 
 
 ### [HTTPie](https://httpie.org/)
