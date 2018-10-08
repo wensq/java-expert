@@ -239,7 +239,7 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
 | [Weibo](http://s.weibo.com/weibo/iftop)
 
 
-### fkill(https://github.com/sindresorhus/fkill)
+### [fkill](https://github.com/sindresorhus/fkill)
 Fabulously kill processes. Cross-platform (Works on macOS, Linux, Windows).
 
 [API](https://github.com/sindresorhus/fkill)
