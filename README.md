@@ -9,6 +9,7 @@ The skills to master if you want to become an expert in Java Language.
     * [reactor](#reactor)
     * [resilience4j](#resilience4j)
     * [Objenesis](#objenesis)
+    * [Caffeine](#caffeine)
 * [Framework](#framework)
     * [Spring](#spring)
         * [Spring Framework](#spring-framework)
