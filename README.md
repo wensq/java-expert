@@ -61,6 +61,7 @@ Vavr (formerly called Javaslang) is an object-functional language extension to J
 [User Guide](http://www.vavr.io/vavr-docs/)
 | [Blog](http://blog.vavr.io/)
 | [Twitter](https://twitter.com/search?q=vavr)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Guava](https://github.com/google/guava)
@@ -69,6 +70,7 @@ Guava is a set of core libraries that includes new collection types (such as mul
 [Wiki](https://github.com/google/guava/wiki)
 | [Twitter](https://twitter.com/hashtag/googleguava)
 | [Weibo](http://s.weibo.com/weibo/Google%2520Guava)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Flogger](https://google.github.io/flogger/)
@@ -77,6 +79,7 @@ Flogger is a fluent logging API for Java. It supports a wide variety of features
 [Home](https://google.github.io/flogger/)
 | [Benefits](https://google.github.io/flogger/benefits)
 | [Best Practices](https://google.github.io/flogger/best_practice)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [reactor](https://projectreactor.io/)
@@ -89,6 +92,8 @@ the JVM based on the Reactive Streams Specification.
 | [Twitter](https://twitter.com/projectreactor)
 | [Gitter](https://gitter.im/reactor/reactor)
 | [Weibo](http://s.weibo.com/weibo/Spring%2520reactor)
+| [⇧ back to top](#table-of-contents)
+
 
 ### [resilience4j](https://github.com/resilience4j/resilience4j)
 Resilience4j is a fault tolerance library designed for Java8 and functional programming.
@@ -96,6 +101,7 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 [User Guide](http://resilience4j.github.io/resilience4j/)
 | [Twitter](https://twitter.com/search?q=resilience4j)
 | [Weibo](http://s.weibo.com/weibo/resilience4j)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Objenesis](http://objenesis.org/)
@@ -105,6 +111,7 @@ To instantiate a new object of a particular class without calling the constructo
 | [Details](http://objenesis.org/details.html)
 | [Twitter](https://twitter.com/search?q=Objenesis)
 | [Weibo](http://s.weibo.com/weibo/Objenesis)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [caffeine](https://github.com/ben-manes/caffeine)
@@ -116,6 +123,7 @@ Caffeine is a high performance, near optimal caching library based on Java 8.
 | [Details](https://juejin.im/post/5b8df63c6fb9a019e04ebaf4)
 | [Twitter](https://twitter.com/search?q=caffeine%20cache)
 | [Weibo](http://s.weibo.com/weibo/caffeine%20cache)
+| [⇧ back to top](#table-of-contents)
 
 
 # Framework
@@ -127,6 +135,7 @@ Spring helps development teams everywhere build simple, portable, fast and flexi
 | [Guides](https://spring.io/guides)
 | [Projects](https://spring.io/projects)
 | [Blog](https://spring.io/blog)
+| [⇧ back to top](#table-of-contents)
 
 ### [Spring Framework](http://projects.spring.io/spring-framework/)
 Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
@@ -134,6 +143,7 @@ Core support for dependency injection, transaction management, web applications,
 [Reference](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/)
 | [Twitter](https://twitter.com/search?q=Spring%20Framework)
 | [Weibo](http://s.weibo.com/weibo/Spring%20Framework)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Spring Data](http://projects.spring.io/spring-data/)
@@ -160,6 +170,7 @@ It makes it easy to use data access technologies, relational and non-relational 
 | [Neo4j](http://projects.spring.io/spring-data-neo4j)
 | [Twitter](https://twitter.com/search?q=Spring%20Data)
 | [Weibo](http://s.weibo.com/weibo/Spring%20Data)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Spring Boot](http://projects.spring.io/spring-boot/)
@@ -169,6 +180,7 @@ Takes an opinionated view of building production-ready Spring applications. Spri
 | [Twitter](https://twitter.com/search?q=Spring%20Boot)
 | [Gitter](https://gitter.im/spring-projects/spring-boot)
 | [Weibo](http://s.weibo.com/weibo/Spring%20Boot)
+| [⇧ back to top](#table-of-contents)
 
 
 ## Metrics
@@ -182,6 +194,7 @@ Micrometer provides a simple facade over the instrumentation clients for the mos
 | [Talk: Observability 3 Ways](https://www.dotconferences.com/2017/04/adrian-cole-observability-3-ways-logging-metrics-tracing)
 | [Twitter](https://twitter.com/micrometerio)
 | [Weibo](http://s.weibo.com/weibo/Micrometer)
+| [⇧ back to top](#table-of-contents)
 
 
 # Service
@@ -192,6 +205,7 @@ Micrometer provides a simple facade over the instrumentation clients for the mos
 | [Community](https://www.elastic.co/community)
 | [Documentation](https://www.elastic.co/guide)
 | [Videos & Webinars](https://www.elastic.co/videos)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [Elasticsearch](https://www.elastic.co/products/elasticsearch)
@@ -205,6 +219,7 @@ As the heart of the Elastic Stack, it centrally stores your data so you can disc
 | [Plugins and Integrations](https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html)
 | [Clients](https://www.elastic.co/guide/en/elasticsearch/client/index.html)
 | [Curator Index Management](https://www.elastic.co/guide/en/elasticsearch/client/curator/current/index.html)
+| [⇧ back to top](#table-of-contents)
 
 
 ## In-Memory Data Grid
@@ -227,6 +242,7 @@ Ignite is:
 | [Twitter](https://twitter.com/search?q=ApacheIgnite)
 | [Gitter](https://gitter.im/apacheignite/ignite)
 | [Weibo](http://s.weibo.com/weibo/Apache%20Ignite)
+| [⇧ back to top](#table-of-contents)
 
 
 # Tool
@@ -241,6 +257,7 @@ Dstat allows you to view all of your system resources in real-time, you can eg. 
 [Documentation](https://github.com/dagwieers/dstat/blob/master/docs/dstat.1.adoc)
 | [Twitter](https://twitter.com/search?q=dstat)
 | [Weibo](http://s.weibo.com/weibo/dstat)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [iftop](http://www.ex-parrot.com/pdw/iftop/)
@@ -251,6 +268,7 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
 [Man Page](https://www.systutorials.com/docs/linux/man/8-iftop/)
 | [Twitter](https://twitter.com/search?q=iftop)
 | [Weibo](http://s.weibo.com/weibo/iftop)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [fkill](https://github.com/sindresorhus/fkill)
@@ -261,6 +279,7 @@ Fabulously kill processes. Cross-platform (Works on macOS, Linux, Windows).
 | [Alfred](https://github.com/SamVerschueren/alfred-fkill)
 | [Twitter](https://twitter.com/search?q=fkill)
 | [Weibo](http://s.weibo.com/weibo/fkill)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [HTTPie](https://httpie.org/)
@@ -269,6 +288,7 @@ HTTPie is a command line HTTP client with an intuitive UI, JSON support, syntax 
 [Documentation](https://httpie.org/doc)
 | [Twitter](https://twitter.com/clihttp)
 | [Weibo](http://s.weibo.com/weibo/HTTPie)
+| [⇧ back to top](#table-of-contents)
 
 
 ## Java
@@ -282,6 +302,7 @@ BTrace can be used to dynamically trace a running Java program (similar to DTrac
 | [Maven Plugin](https://github.com/btraceio/btrace-maven)
 | [Twitter](https://twitter.com/search?q=BTrace)
 | [Weibo](http://s.weibo.com/weibo/BTrace)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [javOSize](http://www.javosize.com/)
@@ -292,6 +313,7 @@ javOSize is not an APM tool. javOSize is not a profiler. javOSize is just the to
 [Docs](http://www.javosize.com/gettingStartedGUI/doc.html)
 | [Twitter](https://twitter.com/search?q=javOSize)
 | [Weibo](http://s.weibo.com/weibo/javOSize)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [vjtop](https://github.com/vipshop/vjtools/tree/master/vjtop)
@@ -300,6 +322,7 @@ VJtop is a JVM monitoring tool to provide a dynamic real-time view of the busies
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjtop/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjtop/README_EN.md)
 | [Weibo](http://s.weibo.com/weibo/vjtop)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [vjmap](https://github.com/vipshop/vjtools/tree/master/vjmap)
@@ -308,6 +331,7 @@ VJMap prints per GC generation (Eden, Survivor, OldGen) object details of a give
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmap/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjmap/README_EN.md)
 | [Weibo](http://s.weibo.com/weibo/vjmap)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [vjdump](https://github.com/vipshop/vjtools/tree/master/vjdump)
@@ -316,6 +340,7 @@ VJDump comes as a handy script for collecting diagnostic data for JVM during urg
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjdump/README.md)
 | [README English](https://github.com/vipshop/vjtools/blob/master/vjdump/README_EN.md)
 | [Weibo](http://s.weibo.com/weibo/vjdump)
+| [⇧ back to top](#table-of-contents)
 
 
 ### [vjmxcli](https://github.com/vipshop/vjtools/tree/master/vjmxcli)
@@ -325,6 +350,7 @@ VJJmxCli can simulate the output of `jstat -gcutil`.
 
 [README Chinese](https://github.com/vipshop/vjtools/blob/master/vjmxcli/README.md)
 | [Weibo](http://s.weibo.com/weibo/vjmxcli)
+| [⇧ back to top](#table-of-contents)
 
 # Topic
 
