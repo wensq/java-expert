@@ -383,7 +383,8 @@ VJJmxCli can simulate the output of `jstat -gcutil`.
 ### [SpotBugs](https://spotbugs.github.io/)
 SpotBugs is a program which uses static analysis to look for bugs in Java code. SpotBugs is the spiritual successor of FindBugs.
 
-[Bug descriptions](https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html)
+[Manual](https://spotbugs.readthedocs.io/en/latest/)
+| [Bug descriptions](https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html)
 | [Using SpotBugs](https://spotbugs.github.io/#using-spotbugs)
 | [Extensions](https://spotbugs.github.io/#using-spotbugs)
 | [Twitter](https://twitter.com/search?q=SpotBugs)
