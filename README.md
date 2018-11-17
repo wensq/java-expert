@@ -36,10 +36,12 @@ The skills to master if you want to become an expert in Java Language.
         * [vjmap](#vjmap)
         * [vjdump](#vjdump)
         * [vjjmxcli](#vjjmxcli)
-* [Topic](#topic)
+* [Code Quality](#code-quality)
     * [Code Style](#code-style)
         * [Guide](#code-style-guide)
         * [Plugin](#code-style-plugin)
+    * [Code Analyze Tool](#code-analyze-tool)
+        * [SpotBugs](#spotbugs)
 
 
 # Library
@@ -352,7 +354,8 @@ VJJmxCli can simulate the output of `jstat -gcutil`.
 | [Weibo](http://s.weibo.com/weibo/vjmxcli)
 | [⇧ back to top](#table-of-contents)
 
-# Topic
+
+# Code Quality
 
 ## Code Style
 
@@ -373,3 +376,18 @@ VJJmxCli can simulate the output of `jstat -gcutil`.
 [Vipshop Code Formatter](https://github.com/vipshop/vjtools/tree/master/standard/formatter)
 
 [⇧ back to top](#table-of-contents)
+
+
+## Code Analyze Tool
+
+### [SpotBugs](https://spotbugs.github.io/)
+SpotBugs is a program which uses static analysis to look for bugs in Java code. SpotBugs is the spiritual successor of FindBugs.
+
+[Bug descriptions](https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html)
+| [Using SpotBugs](https://spotbugs.github.io/#using-spotbugs)
+| [Extensions](https://spotbugs.github.io/#using-spotbugs)
+| [Twitter](https://twitter.com/search?q=SpotBugs)
+| [Weibo](http://s.weibo.com/weibo/SpotBugs)
+| [⇧ back to top](#table-of-contents)
+
+
